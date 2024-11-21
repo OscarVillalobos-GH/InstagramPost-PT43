@@ -1,0 +1,62 @@
+/* pip3 install flask && python3 server.py */
+
+/*------------Section of the Body--------------*/
+body{
+    background-color: black;
+    color: black;    
+}
+
+/*------------Section of the Post--------------*/
+.post{
+    background-color: white;
+    margin: auto;
+    border-radius: 3px;
+    width: 500px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+      
+}
+
+/*------------Section of header--------------*/
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    }
+
+.HT5{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.Text_HT5{
+    display: inline;
+    font-size: 16px; 
+}
+
+.name{
+    margin-left: 20px;
+    
+}
+.head_left{
+    font-size: 25px; 
+    align-self: center;
+}
+/*------------Section of the Main image--------------*/
+.img{
+    width: 500px;
+    height: auto; 
+    display: flex;
+    justify-content: center;
+    }
+
+
+/*------------Section of the Icons--------------*/
+
+.post-icons{
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+
